@@ -24,10 +24,6 @@ public class Main {
         while (length==0){
             int tmp=list.get(count);
             for (int i=0;i<list.size();i++){
-                if(left==tmp)
-                {
-                    array[i][0]=
-                }
 
             }
         }
